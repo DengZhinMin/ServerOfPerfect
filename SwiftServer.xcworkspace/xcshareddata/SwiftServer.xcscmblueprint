@@ -4,25 +4,37 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "DCD994A20FFF69E73D7DE28EB512BBF004934554" : 9223372036854775807,
-    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : 9223372036854775807,
-    "E2306DAE0C98D148736A05084B6FAB44F03B4909" : 9223372036854775807,
-    "E71C9F673135F52EEF9E6F1B8D0895D4850F2E7F" : 9223372036854775807,
-    "C4127C9B9C8FDF608B532AD72407863CE2797629" : 9223372036854775807,
+    "6F1260245BD69EFA9A05D126763C86280510C6E1" : 9223372036854775807,
     "615FD99B652E80AC2E813EEEE7964BA10A9886D5" : 9223372036854775807,
+    "A47270401C4E12170692FDEB5A90EE8AC80F500F" : 9223372036854775807,
+    "E2306DAE0C98D148736A05084B6FAB44F03B4909" : 9223372036854775807,
+    "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE" : 9223372036854775807,
+    "DCD994A20FFF69E73D7DE28EB512BBF004934554" : 9223372036854775807,
+    "7A6E86399764EA793385C76541C62266A3CFE230" : 9223372036854775807,
+    "735A06A83BD3E78D8C3B53C09F33A6FB7CEBF8E1" : 9223372036854775807,
+    "E71C9F673135F52EEF9E6F1B8D0895D4850F2E7F" : 9223372036854775807,
+    "3B905509A4DD1F5305D27EF37A9F71F239F93941" : 9223372036854775807,
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : 9223372036854775807,
+    "C4127C9B9C8FDF608B532AD72407863CE2797629" : 9223372036854775807,
     "2BDE72B4DCD498E48B2CF959ECD2938356E9C2E7" : 9223372036854775807,
-    "6F1260245BD69EFA9A05D126763C86280510C6E1" : 9223372036854775807
+    "30B5D7023EC2CE816BA1191FB8D486529915F14F" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7ED22049-6AD9-4808-9390-91C1B4BB121B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "DCD994A20FFF69E73D7DE28EB512BBF004934554" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-COpenSSL.git--4744624199947727386\/",
-    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-HTTP.git--6392294032632002019\/",
-    "E2306DAE0C98D148736A05084B6FAB44F03B4909" : "SwiftServer\/Perfect\/.build\/checkouts\/PerfectLib.git-3712999737848873669\/",
-    "E71C9F673135F52EEF9E6F1B8D0895D4850F2E7F" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-Crypto.git--5196635702121641122\/",
-    "C4127C9B9C8FDF608B532AD72407863CE2797629" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-HTTPServer.git--6671958091389663080\/",
+    "6F1260245BD69EFA9A05D126763C86280510C6E1" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-Net.git-3268755499654502659\/",
     "615FD99B652E80AC2E813EEEE7964BA10A9886D5" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-Thread.git-6541237758607105655\/",
+    "A47270401C4E12170692FDEB5A90EE8AC80F500F" : "SwiftServer\/Perfect\/.build\/checkouts\/StORM.git-6077292811663054913\/",
+    "E2306DAE0C98D148736A05084B6FAB44F03B4909" : "SwiftServer\/Perfect\/.build\/checkouts\/PerfectLib.git-3712999737848873669\/",
+    "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-MySQL.git-4976130768219902098\/",
+    "DCD994A20FFF69E73D7DE28EB512BBF004934554" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-COpenSSL.git--4744624199947727386\/",
+    "7A6E86399764EA793385C76541C62266A3CFE230" : "SwiftServer\/Perfect\/.build\/checkouts\/SwiftMoment.git--2912679366309029826\/",
+    "735A06A83BD3E78D8C3B53C09F33A6FB7CEBF8E1" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-Logger.git--429101405906730625\/",
+    "E71C9F673135F52EEF9E6F1B8D0895D4850F2E7F" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-Crypto.git--5196635702121641122\/",
+    "3B905509A4DD1F5305D27EF37A9F71F239F93941" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-CURL.git-8858624468322681619\/",
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-HTTP.git--6392294032632002019\/",
+    "C4127C9B9C8FDF608B532AD72407863CE2797629" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-HTTPServer.git--6671958091389663080\/",
     "2BDE72B4DCD498E48B2CF959ECD2938356E9C2E7" : "SwiftServer\/",
-    "6F1260245BD69EFA9A05D126763C86280510C6E1" : "SwiftServer\/Perfect\/.build\/checkouts\/Perfect-Net.git-3268755499654502659\/"
+    "30B5D7023EC2CE816BA1191FB8D486529915F14F" : "SwiftServer\/Perfect\/.build\/checkouts\/MySQL-StORM.git-3054102240623951208\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftServer",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -32,6 +44,16 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NickQCX\/ServerOfPerfect.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2BDE72B4DCD498E48B2CF959ECD2938356E9C2E7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Nick\/Desktop\/SwiftServer\/Perfect\/.build\/repositories\/MySQL-StORM.git-3054102240623951208",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30B5D7023EC2CE816BA1191FB8D486529915F14F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Nick\/Desktop\/SwiftServer\/Perfect\/.build\/repositories\/Perfect-CURL.git-8858624468322681619",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B905509A4DD1F5305D27EF37A9F71F239F93941"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Nick\/Desktop\/SwiftServer\/Perfect\/.build\/repositories\/Perfect-Thread.git-6541237758607105655",
@@ -44,9 +66,29 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F1260245BD69EFA9A05D126763C86280510C6E1"
     },
     {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Nick\/Desktop\/SwiftServer\/Perfect\/.build\/repositories\/Perfect-Logger.git--429101405906730625",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "735A06A83BD3E78D8C3B53C09F33A6FB7CEBF8E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Nick\/Desktop\/SwiftServer\/Perfect\/.build\/repositories\/SwiftMoment.git--2912679366309029826",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7A6E86399764EA793385C76541C62266A3CFE230"
+    },
+    {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Nick\/Desktop\/SwiftServer\/Perfect\/.build\/repositories\/Perfect-HTTP.git--6392294032632002019",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9197B75B1BC29921D6E3B1CCDC2B258350009F3A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Nick\/Desktop\/SwiftServer\/Perfect\/.build\/repositories\/StORM.git-6077292811663054913",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A47270401C4E12170692FDEB5A90EE8AC80F500F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Nick\/Desktop\/SwiftServer\/Perfect\/.build\/repositories\/Perfect-MySQL.git-4976130768219902098",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Nick\/Desktop\/SwiftServer\/Perfect\/.build\/repositories\/Perfect-HTTPServer.git--6671958091389663080",
